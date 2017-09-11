@@ -1,0 +1,6 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\bin\Release\MyFileManager.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\bin\Release\MyFileManager.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\bin\Release\MyFileManager.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\obj\Release\MyFileManager.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\obj\Release\MyFileManager.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MyFileManager\MyFileManager\obj\Release\MyFileManager.csprojResolveAssemblyReference.cache
